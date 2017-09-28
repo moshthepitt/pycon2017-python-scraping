@@ -5,3 +5,4 @@ A basic introduction into data scraping with Python where we try to dynamically 
 * Mechanize - https://github.com/python-mechanize/mechanize
 * BeautifulSoup - https://www.crummy.com/software/BeautifulSoup/
 
+This was a presentation made at Pycon KE 2017.
